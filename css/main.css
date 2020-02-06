@@ -6,8 +6,40 @@
 
 html {
   box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.watermelon {
+  background-color: #e97065;
+}
+
+.watermelons {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.starfruits {
+  font-family: "Gravitas One", serif;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.persimmons {
+  font-family: 'Comfortaa', sans-serif;
 }
