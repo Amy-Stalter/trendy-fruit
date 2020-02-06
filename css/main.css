@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  font-family: "Open Sans", sans-serif;
 }
 
 .watermelon {
@@ -41,5 +42,5 @@ body {
 }
 
 .persimmons {
-  font-family: 'Comfortaa', sans-serif;
+  font-family: Comfortaa, sans-serif;
 }
